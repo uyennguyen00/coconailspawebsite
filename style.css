@@ -2,8 +2,21 @@
     padding:0 ;
     margin:0;
     box-sizing: border-box;
+    background-color: rgb(208, 189, 223);
+    
+    
 }
 
+#logo{
+    font:200px;
+    line-height: 65px;
+    font-family: 'Manrope', sans-serif;
+    margin: auto;
+    margin-left: 50px;
+    color: darkblue;
+    font-size: medium;
+    font-size: 30px;
+}
 body{
     min-height: 100vh;
 }
@@ -27,8 +40,13 @@ ul#navbar li a {
     padding: 12px 15px;
     text-decoration: none;
     color: #000;
+    line-height: 65px;
 }
-
+#banner{
+    margin-top: 150px;
+    margin-left: 80px;
+    margin-right: 20px;
+}
 
 #header{
     position: fixed;
@@ -58,4 +76,9 @@ ul#navbar li a {
     float:left;
     height: 60px;
     text-decoration: none;
+}
+#photo img{
+    width: 800px;
+    height: 400px;
+
 }
