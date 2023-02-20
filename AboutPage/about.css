@@ -7,6 +7,7 @@
 body{
     min-height: 100%;
     display: flex;
+    background: #e3e2f2;
     
 }
 footer{
@@ -17,15 +18,6 @@ footer{
    margin-bottom: -200px;
 }
 
-#main {
-    width: 100%;
-    height: 700px;
-    padding: 10px 0px;
-}
-    
-ul li{
-    list-style: none;
-}
 #wrapper{
     width:100%;
     margin: 0px auto;
@@ -39,12 +31,12 @@ ul li{
 
 #header{
     text-align: center;
-    background: blanchedalmond;
+    background:white;
     padding: 10px;
     font:200px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
-    color: darkblue;
+    color: #5563ce;
     font-size: medium;
     font-size: 70px;
     
@@ -74,8 +66,12 @@ li a{
 }
 #footer{
     text-align: center;
-    background: blanchedalmond;
+    background: #5563ce;
     padding: 15px;
+}
+
+#footer li{
+    text-decoration-color: #e3e2f2;
 }
 
 #navbar {
@@ -84,7 +80,7 @@ li a{
     align-items: center;
     padding: 20px;
     
-    background: blanchedalmond;
+    background:white;
     white-space: normal;
     max-width: 100%;
     height: auto;
@@ -110,7 +106,7 @@ li a{
 }
 
 #navbar a:hover{
-    background-color:#F8F7E4;
+    background-color:#e3e2f2;
     color:#000;
 
 }
