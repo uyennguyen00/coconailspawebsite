@@ -5,9 +5,9 @@
     padding: 0;
 }
 body{
-    min-height: 100%;
+    min-height: 100vh;
     display: flex;
-    background: #e3e2f2;
+   
     
 }
 #navbar a{
@@ -39,7 +39,7 @@ body{
 #header{
     text-align: center;
     background: #e3e2f2;
-    padding: 10px;
+    padding: 50px;
     font:200px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
@@ -57,19 +57,20 @@ body{
     
 }
 li a{
-    font:200px;
+    font:20px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
     margin: auto;
     
     color: darkblue;
     font-size: medium;
-    font-size: 30px;
+    font-size: 18px;
     text-decoration: none;
     
 }
 #banner{
-    width: 100%;
+    height: auto;
+    background-color: white;
 }
 #footer{
     text-align: center;
@@ -85,9 +86,9 @@ li a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
-    
-    background: #e3e2f2;
+    padding: 10px;
+    margin-top: 20px;
+    background:rgb(226, 228, 223);
     white-space: normal;
     max-width: 100%;
     height: auto;
@@ -101,9 +102,7 @@ li a{
     margin: 0px 30px;
     text-decoration: none;
     display: inline;
-
-
-
+    font-family: 'Manrope', sans-serif;
   
 
 }
@@ -117,8 +116,5 @@ li a{
     color:#000;
 
 }
-img {
-    max-width: 100%;
-    height: auto;
-}
+
 

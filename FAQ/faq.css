@@ -31,8 +31,8 @@ footer{
 
 #header{
     text-align: center;
-    background: #e3e2f2;
-    padding: 10px;
+    background:red;
+    padding: 50px;
     font:200px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
@@ -44,6 +44,7 @@ footer{
 }
 #header a{
     text-decoration: none;
+    margin-bottom: 19px;
 }
 #navbar li{
     display: inline-block;
@@ -63,6 +64,7 @@ li a{
 }
 #banner{
     width: 100%;
+
 }
 #footer{
     text-align: center;
@@ -78,7 +80,7 @@ li a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    padding: 10px;
     
     background: #e3e2f2;
     white-space: normal;
@@ -122,4 +124,7 @@ img {
     margin-right: 200px;
     min-height: 850px;
     background-color: white;
+}
+#logo{
+    padding: 10px;
 }
