@@ -40,7 +40,7 @@ ul li{
 #header{
     text-align: center;
     background: blanchedalmond;
-    padding: 10px;
+    padding: auto;
     font:200px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
@@ -82,7 +82,7 @@ li a{
     display: flex;
     justify-content: center;
     align-items: center;
-    padding: 20px;
+    
     
     background: blanchedalmond;
     white-space: normal;
@@ -109,11 +109,7 @@ li a{
     display: inline;
 }
 
-#navbar a:hover{
-    background-color:#F8F7E4;
-    color:#000;
 
-}
 img {
     max-width: 100%;
     height: auto;

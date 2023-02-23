@@ -10,15 +10,11 @@
 body{
     height: 100vh;
     display: flex;
-    background: #e3e2f2;
+    
     
 }
 
-.banner{
-    width: 700px;
-    height: 400px; 
-    overflow: hidden;
-}
+
 .middle{
     position: absolute;
     top: 50%;
@@ -55,7 +51,7 @@ ul li{
 #header{
     text-align: center;
     background: white;
-    padding: 10px;
+    padding: 50px;
     font:200px;
     line-height: 65px;
     font-family: 'Manrope', sans-serif;
@@ -86,8 +82,14 @@ li a{
     
 }
 #banner{
-    width: 100%;
+    
+
+    height: auto;
+    background-color: white;
+    
+    
 }
+
 #footer{
     text-align: center;
     background: #5563ce;
@@ -131,12 +133,35 @@ li a{
 
 
 #navbar a:hover{
-    background-color:#e3e2f2;
+    background-color:white;
     color:#000;
 
 }
-img {
-    max-width: 100%;
-    height: auto;
+#banner img {
+    
+    height: 260px;
+    margin-top: 10px;
+    margin-bottom: 7px;
+    width: 90%;
+    margin-left: auto;
+    margin-right: auto;
+    justify-content: space-between;
+    display: flex;
+    border-radius: 30px;
+    
+    
+    
 }
 
+#column {
+    float: right;
+    width: 25%;
+    padding: 10px;
+  }
+  
+  /* Clear floats after image containers */
+  #row::after {
+    content: "";
+    clear: both;
+    display: table;
+  }
