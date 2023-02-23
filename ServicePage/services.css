@@ -18,15 +18,6 @@ footer{
    margin-bottom: -200px;
 }
 
-#main {
-    width: 100%;
-    height: 700px;
-    padding: 10px 0px;
-}
-    
-ul li{
-    list-style: none;
-}
 #wrapper{
     width:100%;
     margin: 0px auto;
@@ -40,7 +31,7 @@ ul li{
 
 #header{
     text-align: center;
-    background: white;
+    background: #e3e2f2;
     padding: 10px;
     font:200px;
     line-height: 65px;
@@ -89,7 +80,7 @@ li a{
     align-items: center;
     padding: 20px;
     
-    background: white;
+    background: #e3e2f2;
     white-space: normal;
     max-width: 100%;
     height: auto;
@@ -124,3 +115,51 @@ img {
     height: auto;
 }
 
+
+
+
+
+  /* Create three equal columns that floats next to each other */
+
+  @media screen and (max-width:600px) {
+    #column {
+      width: 100%;
+    }
+  }
+  #column {
+    float: left;
+    width: 25%;
+    padding: 15px;
+  }
+
+  /* Clear floats after the columns */
+
+
+ 
+  #services:after {
+    content: "";
+    display: table;
+    clear: both;
+  }
+
+
+  @media screen and (max-width:600px) {
+    #column2 {
+      width: 100%;
+    }
+  }
+  #column2 {
+    float: left;
+    width: 25%;
+    padding: 15px;
+  }
+
+  /* Clear floats after the columns */
+
+
+ 
+  #services2:after {
+    content: "";
+    display: table;
+    clear: both;
+  }

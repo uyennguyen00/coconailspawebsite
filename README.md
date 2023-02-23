@@ -82,3 +82,197 @@ Yes, you can wear makeup with lash extensions, but it is recommended to avoid oi
 If you want to remove your lash extensions, we offer professional removal services using a special solution to dissolve the lash adhesive.
 Yes, we offer lash lifts and lash tinting services to enhance the natural lashes. A lash lift involves curling the lashes using a chemical solution, while a lash tint involves coloring the lashes with a semi-permanent dye.
 
+
+
+<link rel="preconnect" href="https://fonts.googleapis.com">
+    <link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+    <link href="https://fonts.googleapis.com/css2?family=Manrope:wght@800&display=swap" rel="stylesheet">
+
+
+
+
+    <div id="banner">
+            <div class="images">
+                <input type="ratio" name="slide" id="img1" checked>
+                <input type="ratio" name="slide" id="img2">
+                <input type="ratio" name="slide" id="img3">
+                <input type="ratio" name="slide" id="img4">
+
+                <img src="assets/banner1.jpg" class="m1" alt="img1">
+                <img src="assets/banner2.png" class="m2" alt="img2">
+                <img src="assets/banner1.jpg" class="m3" alt="img3">
+                <img src="assets/banner2.png" class="m4" alt="img4">
+            </div>
+        </div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+        <div id="Services">
+            <div id = "column1">
+                <h2>NAIL CARE</h2>
+                <li>Acrylic Fullset</li>
+                <li>Acrylic Refill</li>
+                <li>Acrylic Fullset + Shellac</li>
+                <li>Acrylic Refill + Shellac</li>
+                <li>Solar Gel Fullset</li>
+                <li>Solar Gel Refill</li>
+                <li>Ombre Fullset</li>
+                <li>Ombre Refill</li>
+                <li>Dipping + Tip</li>
+                <li>Dipping Overlay</li>
+                <li>Nails Removal</li>
+                <li>Nails Design</li>
+                <li>NAils Repair</li>
+                <li>Extra Length</li>
+                <li>French</li>
+
+            </div>
+
+            <div id = "column2">
+                <h2></h2>
+                <li>$55</li>
+                <li>$45</li>
+                <li>$60</li>
+                <li>$50</li>
+                <li>$55</li>
+                <li>$45</li>
+                <li>$65</li>
+                <li>$55</li>
+                <li>$60</li>
+                <li>$50</li>
+                <li>$20</li>
+                <li>$5</li>
+                <li>$10</li>
+                <li>$5</li>
+                <li>$10</li>
+
+            </div>
+
+            <div id = "column3">
+                <h2>Pedimani CARE</h2>
+                <li>Pedicure Spa</li>
+                <li>Shellac Pedicure Spa</li>
+                <li>Pedicure Spa & Manicure</li>
+                <li>Shellac Pedicure Spa & Manicure</li>
+                <li>Manicure</li>
+                <li>Shellac Manicure</li>
+                <li>Hand Shellac Change</li>
+                <li>Foot Shellac Change</li>
+                <li>Hand polish Change</li>
+                <li>Foot Polish Change</li>
+                <li>Shellac Take Off</li>
+                <li>French</li>
+                
+
+            </div>
+
+            <div id = "column4">
+                <h2></h2>
+                <li>$35</li>
+                <li>$50</li>
+                <li>$55</li>
+                <li>$80</li>
+                <li>$25</li>
+                <li>$35</li>
+                <li>$25</li>
+                <li>$30</li>
+                <li>$15</li>
+                <li>$20</li>
+                <li>$10</li>
+                <li>$5</li>
+
+            </div>
+
+            <div id = "column5">
+                <h2>waxing</h2>
+                <li>Tint Eyebrown</li>
+                <li>Eyebrown</li>
+                <li>Chin</li>
+                <li>Lip</li>
+                <li>Chin & Neck</li>
+                <li>Forehead</li>
+                <li>Side Burns</li>
+                <li>Cheeks</li>
+                <li>Full Face</li>
+                <li>Full Arm</li>
+                <li>Half Arm</li>
+                <li>Full Leg</li>
+                <li>Half Leg</li>
+                <li>Full Leg</li>
+                <li>Full Leg + Bikini</li>
+                <li>Brazillian</li>
+                <li>Hand & Toe</li>
+                <li>Back</li>
+                <li>Chest</li>
+                <li>Stomach</li>
+                <li>Shoulders</li>
+                <li>Under Arm</li>
+
+            </div>
+
+
+            <div id = "column6">
+                <h2>waxing price</h2>
+                <li>$15</li>
+                <li>$15</li>
+                <li>$10</li>
+                <li>$8</li>
+                <li>$15</li>
+                <li>$10</li>
+                <li>$12</li>
+                <li>$15</li>
+                <li>$35</li>
+                <li>$35</li>
+                <li>$25</li>
+                <li>$55</li>
+                <li>$35</li>
+                <li>$30</li>
+                <li>$70</li>
+                <li>$50</li>
+                <li>$10</li>
+                <li>$35</li>
+                <li>$25</li>
+                <li>$25</li>
+                <li>$25</li>
+                <li>$20</li>
+            </div>
+            <div id = "column7">
+                <h2>Lashes</h2>
+                <li>Eyelash Volume New Set</li>
+                <li>Refill Two Weeks</li>
+                <li>Refill 3 Weeks</li>
+                <li>Eyelash Classic New Set</li>
+                <li>Refill 2 Weeks</li>
+                <li>Refill 3 Weeks</li>
+                <li>Lash Lift</li>
+                <li>Lash Lift + Tint</li>
+                <li>Tint</li>
+            
+
+            </div>
+
+            <div id = "column8">
+                <h2>lashes price</h2>
+                <li>$120</li>
+                <li>$80</li>
+                <li>$95</li>
+                <li>$95</li>
+                <li>$65</li>
+                <li>$75</li>
+                <li>$70</li>
+                <li>$95</li>
+                <li>$30</li>
+            </div>
+            
+        </div>
+
