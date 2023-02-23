@@ -68,7 +68,7 @@ ul li{
 #header a{
     text-decoration: none;
 }
-
+/*
 li a{
     font:20px;
     line-height: 65px;
@@ -81,6 +81,8 @@ li a{
     text-decoration: none;
     
 }
+*/
+
 #banner{
     
 
@@ -104,13 +106,6 @@ li a{
     max-width: 100%;
     height: auto;
 
-
-    
-    
-        
-        
-        
-    
 }
 
 #footer li{

@@ -7,7 +7,7 @@
 body{
     min-height: 100%;
     display: flex;
-    background: #e3e2f2;
+    background: white;
     
 }
 footer{
@@ -185,4 +185,33 @@ img {
     font-size: 25px;
     text-align: justify;
     
+}
+#services, #services2{
+  margin: 30px 200px 0px 200px;
+  background-color: white;
+  text-decoration: none;
+  border-radius: 2px;
+  border-style:ridge ;
+}
+
+#column h2{
+  text-align: left;
+  display: inline;
+}
+
+#column2 h2{
+  text-align: left;
+  display: inline;
+}
+
+
+#column li{
+  text-decoration: none;
+  list-style-type: none
+
+}
+#column2 li{
+  text-decoration: none;
+  list-style-type: none
+
 }

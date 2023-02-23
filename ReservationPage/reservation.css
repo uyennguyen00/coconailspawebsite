@@ -18,6 +18,7 @@ footer{
 }
 
 
+
 ul li{
     list-style: none;
 }
@@ -49,18 +50,7 @@ ul li{
     text-decoration: none;
 }
 
-li a{
-    font:20px;
-    line-height: 65px;
-    font-family: 'Manrope', sans-serif;
-    margin: auto;
-    
-    color: darkblue;
-    
-    font-size: 18px;
-    text-decoration: none;
-    
-}
+
 #banner{
     height: auto;
 }

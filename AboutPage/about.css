@@ -51,6 +51,7 @@ body{
     display: inline-block;
     
 }
+/*
 li a{
     font:20px;
     line-height: 65px;
@@ -63,11 +64,22 @@ li a{
     text-decoration: none;
     
 }
+*/
 
 #footer{
     text-align: center;
-    background: #5563ce;
-    padding: 15px;
+    background:rgb(226, 228, 223);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 20px;
+    background: rgb(226, 228, 223);
+    white-space: normal;
+    max-width: 100%;
+    height: auto;
+
 }
 
 #footer li{
@@ -125,19 +137,21 @@ li a{
     border-style:ridge ;
     
 }
-#aboutus p {
-    margin: 30px 50px 100px 50px;
-    font-size: 20px;
-    text-align: justify;
-    
-    
-}
-#aboutus h2,h3 {
-    
-    font-size: 20px;
+
+#aboutus h2, h3{
     text-align: center;
-    padding: 10px;
-    
-    
+    padding: 20px;
+
+}
+
+#aboutus p{
+    text-align: justify;
+    margin: 30px;
+
+}
+
+
+ul li{
+    list-style: none;
 }
 
