@@ -53,18 +53,7 @@ footer{
     display: inline-block;
     
 }
-li a{
-    font:20px;
-    line-height: 65px;
-    font-family: 'Manrope', sans-serif;
-    margin: auto;
-    
-    color: darkblue;
-    font-size: medium;
-    font-size: 18px;
-    text-decoration: none;
-    
-}
+
 #banner{
     height: auto;
 
@@ -108,7 +97,7 @@ li a{
     margin: 0px 30px;
     text-decoration: none;
     display: inline;
-
+    font-family: 'Manrope', sans-serif;
 
 
   
