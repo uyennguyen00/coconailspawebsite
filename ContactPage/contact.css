@@ -63,8 +63,21 @@ body{
 }
 #footer{
     text-align: center;
-    background: #5563ce;
-    padding: 15px;
+    background:rgb(226, 228, 223);
+    padding: 10px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 10px;
+    margin-top: 20px;
+    background: rgb(226, 228, 223);
+    white-space: normal;
+    max-width: 100%;
+    height: auto;
+
+}
+ul li{
+    list-style: none;
 }
 
 #footer li{
@@ -104,6 +117,27 @@ body{
     background-color:#e3e2f2;
     color:#000;
 
+}
+
+
+#content{
+   
+    
+    margin: 30px 300px 80px 300px;
+    min-height: 500px;
+    background-color:white;
+    
+    border-radius: 2px;
+    border-style:ridge ;
+    
+}
+#content p {
+    
+    
+    font-size: 20px;
+    text-align: justify;
+    
+    
 }
 
 
